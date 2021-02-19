@@ -1,0 +1,43 @@
+.footer {
+  color: whitesmoke;
+  width: 100% !important;
+  height: 420px;
+  background: #16143d 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.footerCards {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: left;
+}
+.card1 {
+  display: flex;
+  flex-direction: column;
+  max-width: 15%;
+}
+.card2 {
+  display: flex;
+  flex-direction: column;
+  max-width: 25%;
+  margin-top: 40px;
+}
+.card3 {
+  display: flex;
+  flex-direction: column;
+  max-width: 25%;
+  margin-top: 40px;
+}
+.card4 {
+  display: flex;
+  flex-direction: column;
+  max-width: 25%;
+  margin-top: 40px;
+}
+.fontDeco {
+  font-family: monospace;
+  font-size: 20px;
+}
+.hrTag {
+  width: 80%;
+}

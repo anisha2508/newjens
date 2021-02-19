@@ -1,0 +1,31 @@
+.maindiv {
+  text-align: left;
+  padding: 40px;
+  margin-left: 60px;
+}
+.top {
+  top: 689px;
+  left: 156px;
+  width: 107px;
+  height: 19px;
+  letter-spacing: 0px;
+  color: #87a1b6;
+  opacity: 1;
+}
+.topTitle {
+  top: 731px;
+  left: 156px;
+  width: 392px;
+  height: 55px;
+  letter-spacing: 0px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  opacity: 1;
+  font-size: 40px;
+}
+.topSubs {
+  margin-top: -30px;
+  color: #5a7184;
+  font-family: Roboto-Regular;
+  opacity: 100%;
+  font-size: 18px;
+}

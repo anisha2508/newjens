@@ -1,0 +1,35 @@
+.mainProduct {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 90px;
+}
+.productCard {
+  height: 340px;
+  width: 348px;
+  border-radius: 10px;
+  text-align: left;
+  margin-right: 40px;
+}
+.firstIcon {
+  font-size: large;
+}
+.productDetails {
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 20px;
+}
+.productTitle {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-decoration: none;
+}
+.productTitleDetail {
+  font-size: 20px;
+  font-weight: 350;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.option1 {
+  text-decoration: none;
+}

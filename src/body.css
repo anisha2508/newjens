@@ -1,0 +1,30 @@
+.body {
+  display: flex;
+  padding: 40px;
+  margin-left: 60px;
+  justify-content: space-between;
+}
+.bodyContent {
+  max-width: 40%;
+  text-align: left;
+}
+.bodyContentIntro {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 50px;
+  text-align: left;
+}
+.bodyContentSub {
+  font-weight: 350;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.buttonStyle {
+  background-color: #007ffc;
+  border-radius: 8px;
+  opacity: 100%;
+  color: white;
+}
+.slideshowStyles {
+  width: 480px;
+  height: 220px;
+  margin-top: 60px;
+}

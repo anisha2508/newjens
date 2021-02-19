@@ -1,0 +1,55 @@
+.headerMain {
+  display: flex;
+  width: 100%;
+  float: right;
+  justify-content: space-between;
+  padding: 10px;
+}
+.headerLogo {
+  text-align: left;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.headerMenu {
+  text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-right: 60px;
+  margin-left: 100px;
+  font-size: small;
+  flex: right;
+}
+.headerHome {
+  margin-right: 50px;
+}
+.headerPort {
+  margin-right: 50px;
+}
+.headerPages {
+  margin-right: 50px;
+}
+.headerRight {
+  align-items: center;
+  display: flex;
+  margin-right: 10px;
+  font-size: small;
+}
+.headerLogin {
+  margin-right: 20px;
+  border-radius: 8px;
+  border: 2px solid;
+  font-weight: bold;
+}
+.headerSignup {
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+}
+.option1,
+.option2,
+.option3,
+.option4 {
+  text-decoration: none;
+  color: #16133e;
+}
